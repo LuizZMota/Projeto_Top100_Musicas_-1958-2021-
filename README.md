@@ -1,4 +1,4 @@
-# Projeto_Top100_Musicas_-1958-2021-
+# Projeto_Top100_Musicas_1958-2021
 Este foi meu projeto da faculdade no 1º semestre, com o objetivo de desenvolver um programa em Python que analise os dados de artistas que estiveram entre os mais populares nos últimos anos.
 O arquivo "billboard.csv" apresenta os dados dos top 100 artistas na billboard por mês, desde janeiro de 1958 até novembro de 2021. Neste arquivo tem dados como date; rank; song; artist; last week; peak rank; weeks-on-board.
 Criei um programa em python que me permite ler os dados deste arquivo e realizar as seguintes buscas / filtros:
